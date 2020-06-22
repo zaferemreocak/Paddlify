@@ -1,5 +1,3 @@
-# Object Oriented Software Design
+# Paddlify Game
 
-This repository contains Object-Oriented Software Design project files which is written in Java.
-
-- Paddlify Game
+Paddlify is a game which players should destroy all bricks to get the highest score.
