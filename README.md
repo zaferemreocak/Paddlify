@@ -1,3 +1,3 @@
 # Paddlify Game
 
-Paddlify is a game which players should destroy all bricks to get the highest score.
+Paddlify is a console based game which players can give commands to destroy all bricks to get the highest score.
